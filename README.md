@@ -1,6 +1,7 @@
 # Shopping App
 
 Welcome to the Shopping App! This application allows users to browse products, add them to their cart, and make purchases seamlessly. It is built using React and Vite, ensuring a fast and interactive user experience.
+#### (Part of Learning) 
 
 ## Table of Contents
 
